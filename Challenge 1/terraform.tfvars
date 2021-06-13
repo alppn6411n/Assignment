@@ -1,0 +1,10 @@
+rg_name    = "sample"
+location   = "eastus"
+vnetaddr   = "10.0.0.0/16"
+subnetweb  = "10.0.1.0/24"
+subnetapp  = "10.0.2.0/24"
+subnetdb   = "10.0.3.0/24"
+subnetmgmt = "10.0.4.0/24"
+webcount   = 2
+appcount   = 2
+dbcount    = 2
